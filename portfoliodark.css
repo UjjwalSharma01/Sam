@@ -733,6 +733,7 @@ footer{
     cursor: pointer;
     font-size: 35px;
     transition: all 0.4s;
+    text-decoration: none;
 }
 
 #github:hover{
