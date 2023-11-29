@@ -736,6 +736,11 @@ footer{
     text-decoration: none;
 }
 
+.icon {
+    text-decoration: none;
+    color: white;
+}
+
 #github:hover{
     background-color: #8e32ac;
     border-radius: 80%;
